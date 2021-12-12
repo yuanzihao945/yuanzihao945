@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuanzihao945
-- 👀 I’m interested in Mathematical Statistics, Applied Statistics, Data Analysis and PMRL
-- 🌱 I’m currently learning Feature Screening
-- 💞️ I’m looking to collaborate on Biostatistics and Function optimization problem
+- 👀 I’m interested in              :  Mathematical Statistics; Applied Statistics; Data Analysis; PMRL
+- 🌱 I’m currently learning         :  Feature Screening; High-Dimensional Statistic; Mechine Learning in Biometrics
+- 💞️ I’m looking to collaborate on  :  Biostatistics; Optimization problem
 - 📫 Reach me by zihaoyuan@whut.edu.cn
 
 <!---
