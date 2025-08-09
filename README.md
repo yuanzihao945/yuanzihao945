@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuanzihao945
-- 👀 I’m interested in              :  Mathematical Statistics; Applied Statistics; Bayesian Learning; PRML; Brain FMRI data analysis; Data Analysis
-- 🌱 I’m currently learning         :  Feature Screening; High-Dimensional Statistic; Mechine Learning in Biometrics; Sparse Framework
+- 👀 I’m interested in              :  Mathematical Statistics; Applied Statistics; Bayesian Learning; PRML; Neuroimaging analysis
+- 🌱 I’m currently learning         :  Feature Screening; Sparse Clustering; High-Dimensional Statistic; Machine Learning in Biometrics; Sparse Framework for High Dimensionality
 - 💞️ I’m looking to collaborate on  :  Biostatistics; Optimization problem
 - 📫 Reach me by zihaoyuan@whut.edu.cn
 
